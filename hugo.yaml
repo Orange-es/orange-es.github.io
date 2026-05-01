@@ -1,5 +1,27 @@
 baseURL: "https://orange-es.github.io/"
-title: "Orange-es 的博客"
+title: "Jingbw 的博客"
 theme: "PaperMod"
 languageCode: "zh-cn"
 hasCJKLanguage: true  # 开启中文字数统计
+
+params:
+  env: production
+  description: "在这里写下你的座右铭或个人介绍"
+  author: "Orange-es"
+  
+  # 首页个人资料模式
+  homeInfoParams:
+    Title: "你好 👋"
+    Content: "欢迎来到我的数字花园，这里记录技术与生活。"
+
+  # 社交链接（图标会自动出现在首页）
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Orange-es"
+    - name: "email"
+      url: "mailto:jingbw999@foxmail.com"
+
+  # 功能开关
+  ShowCodeCopyButtons: true # 显示代码复制按钮
+  ShowReadingTime: true     # 显示阅读时间
+  displayFullContent: false # 首页只显示摘要
