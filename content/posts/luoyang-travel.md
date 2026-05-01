@@ -7,6 +7,9 @@ categories: ["生活"]
 cover:
     image: "https://s3.bmp.ovh/imgs/2023/04/24/9b0eca278b1f98a2.jpg" # 封面图
     alt: "洛阳龙门"
+    responsiveImages: true # 开启响应式缩放
+    hiddenInList: false    # 在列表页显示
+    hiddenInSingle: false  # 在详情页显示
     caption: "洛阳龙门石窟大佛"
 ---
 
