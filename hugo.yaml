@@ -1,0 +1,5 @@
+baseURL: "https://orange-es.github.io/"
+title: "Orange-es 的博客"
+theme: "PaperMod"
+languageCode: "zh-cn"
+hasCJKLanguage: true  # 开启中文字数统计
